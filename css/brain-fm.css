@@ -1,0 +1,86 @@
+body {
+    background-color: #4A12F6;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+
+.section-1 {
+    display: flex;
+    align-items: center;
+}
+
+#try-for-free {
+    background-color: #EC8E3B; 
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+a:visited {
+    color: #D3B5FB;
+}
+
+a:hover {
+    color: gray;
+}
+
+.headline-1 {
+    font-size: 20px;
+}
+
+.headline-2 {
+    font-size: .85em;
+    color: #D3B5FB;
+    padding: 5px 20px 5px 0px;
+}
+
+.headline-3 {
+    font-size: .85em;
+    width: 85%;
+}
+
+#try-5-free-sessions {
+    background-color: #EC8E3B; 
+    color: #FFFFFF;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    white-space: normal;
+    width: 225px;
+}
+
+.section-2 {
+    text-align: center;
+    margin: 100px 0px;
+}
+
+.section-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#try-5-free-sessions:hover {
+    background-color: #FFFFFF;
+    color:#EC8E3B;
+}
+
+#try-for-free:hover {
+    background-color: #FFFFFF;
+    color:#EC8E3B;
+}
+
+#explore-more-link {
+    font-size: 17px; 
+    font-weight: bold; 
+    text-decoration: underline; 
+    color: white;
+}
+
+#explore-more-link:hover {
+    color: #D3B5FB;
+}
